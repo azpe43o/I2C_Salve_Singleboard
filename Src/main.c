@@ -41,7 +41,7 @@ LL_I2C_InitTypeDef i2c_initstruct;
 /**
   * @brief Define related to SlaveTransmit process
   */
- uint8_t SLAVE_BYTE_TO_SEND[]  =   "--- Multiple bytes tranfer using i2c ---";
+ uint8_t SLAVE_BYTE_TO_SEND[]  =   "--- Multiple bytes tranfer using i2c ---"; //data bytes to be transferred
 
 /* Private macro -------------------------------------------------------------*/
 
