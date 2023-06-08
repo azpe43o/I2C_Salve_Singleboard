@@ -1,1 +1,1 @@
-# I2C_Salve_Singleboard
+# I2C_Slave_Singleboard
